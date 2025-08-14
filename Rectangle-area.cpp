@@ -1,7 +1,7 @@
 // Name: Aditya Sinha
 // PRN: 24070123006
 //Batch: EnTc A1
-//Experiment: 10C
+//Experiment: 11C
 
 
 #include <iostream>
