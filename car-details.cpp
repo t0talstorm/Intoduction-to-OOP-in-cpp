@@ -31,7 +31,7 @@ int main() {
 
     obj[i] = {make,model, year};
 }
-for(int j = 0 ; j , 2 ; j++){
+for(int j = 0 ; j < 2 ; j++){
 printf("\n\nThe car info you entered for %d car is :", j +1);
 cout << obj[j].Brand << " " << obj[j].Model << " " << obj[j].Year<< " ";
 }
